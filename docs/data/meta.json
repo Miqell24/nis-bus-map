@@ -1,0 +1,3288 @@
+{
+  "generatedAt": "2026-08-31T14:52:19.952Z",
+  "bbox": [
+    21.740579,
+    43.248971,
+    22.148435,
+    43.464904
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses",
+      "color": "#0059a9"
+    }
+  ],
+  "lines": [
+    {
+      "line": "1",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Ledena Stena",
+          "headsign": "Ledena Stena",
+          "variants": 2,
+          "tripCount": 24,
+          "stops": 20,
+          "lengthKm": 12.36,
+          "stats": {
+            "observations": 619,
+            "matched": 619,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.782487514497676,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "MIN-ovo naselje I",
+          "headsign": "MIN-ovo naselje I",
+          "variants": 3,
+          "tripCount": 118,
+          "stops": 24,
+          "lengthKm": 14.51,
+          "stats": {
+            "observations": 722,
+            "matched": 722,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.7968277058735596,
+            "roundaboutSegs": 78,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Niška Banja",
+          "headsign": "Niška Banja",
+          "variants": 4,
+          "tripCount": 112,
+          "stops": 28,
+          "lengthKm": 15.29,
+          "stats": {
+            "observations": 767,
+            "matched": 767,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.55942190688012,
+            "roundaboutSegs": 70,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Aleksandra",
+          "headsign": "Trg Kralja Aleksandra",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 12,
+          "lengthKm": 4.94,
+          "stats": {
+            "observations": 247,
+            "matched": 247,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.069109036107403,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "2",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Bubanj",
+          "headsign": "Bubanj",
+          "variants": 5,
+          "tripCount": 61,
+          "stops": 19,
+          "lengthKm": 8.41,
+          "stats": {
+            "observations": 421,
+            "matched": 421,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.9081913866422533,
+            "roundaboutSegs": 52,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Donja Vrežina",
+          "headsign": "Donja Vrežina",
+          "variants": 2,
+          "tripCount": 187,
+          "stops": 20,
+          "lengthKm": 7.1,
+          "stats": {
+            "observations": 357,
+            "matched": 357,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.3402102651574577,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Donja Vrežina I",
+          "headsign": "Donja Vrežina I",
+          "variants": 2,
+          "tripCount": 59,
+          "stops": 22,
+          "lengthKm": 8.52,
+          "stats": {
+            "observations": 426,
+            "matched": 426,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.374316527800474,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Gornja Vrežina",
+          "headsign": "Gornja Vrežina",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 9.84,
+          "stats": {
+            "observations": 490,
+            "matched": 490,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.3404587900895617,
+            "roundaboutSegs": 4,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Skopska",
+          "headsign": "Skopska",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 22,
+          "lengthKm": 8.11,
+          "stats": {
+            "observations": 405,
+            "matched": 405,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6750399845726798,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Aleksandra",
+          "headsign": "Trg Kralja Aleksandra",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 6,
+          "lengthKm": 1.88,
+          "stats": {
+            "observations": 86,
+            "matched": 86,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 7.646456531545942,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Milana",
+          "headsign": "Trg Kralja Milana",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 13,
+          "lengthKm": 5.36,
+          "stats": {
+            "observations": 243,
+            "matched": 243,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 8.438898428392193,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "3",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Brzi Brod",
+          "headsign": "Brzi Brod",
+          "variants": 3,
+          "tripCount": 119,
+          "stops": 20,
+          "lengthKm": 10.27,
+          "stats": {
+            "observations": 511,
+            "matched": 511,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.863713429934718,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Ratko Jović",
+          "headsign": "Ratko Jović",
+          "variants": 3,
+          "tripCount": 17,
+          "stops": 19,
+          "lengthKm": 12.21,
+          "stats": {
+            "observations": 608,
+            "matched": 608,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6293076711176777,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Suvi Do",
+          "headsign": "Suvi Do",
+          "variants": 1,
+          "tripCount": 10,
+          "stops": 20,
+          "lengthKm": 10.19,
+          "stats": {
+            "observations": 465,
+            "matched": 465,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.130528199503595,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 926
+          }
+        },
+        {
+          "dir": "Velpro",
+          "headsign": "Velpro",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 22,
+          "lengthKm": 11.44,
+          "stats": {
+            "observations": 561,
+            "matched": 561,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9189226418236647,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "4",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Bubanj",
+          "headsign": "Bubanj",
+          "variants": 2,
+          "tripCount": 115,
+          "stops": 24,
+          "lengthKm": 9.48,
+          "stats": {
+            "observations": 472,
+            "matched": 472,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2063110762993348,
+            "roundaboutSegs": 78,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Aleksandra",
+          "headsign": "Trg Kralja Aleksandra",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 6,
+          "lengthKm": 1.68,
+          "stats": {
+            "observations": 84,
+            "matched": 84,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.2467469365190045,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Milana",
+          "headsign": "Trg Kralja Milana",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 7.24,
+          "stats": {
+            "observations": 361,
+            "matched": 361,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0372413445265782,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Čalije",
+          "headsign": "Čalije",
+          "variants": 2,
+          "tripCount": 118,
+          "stops": 25,
+          "lengthKm": 9.66,
+          "stats": {
+            "observations": 476,
+            "matched": 476,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.4287187413124336,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Bulevar Svetog Pantelejmona",
+          "headsign": "Bulevar Svetog Pantelejmona",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 12,
+          "lengthKm": 5.01,
+          "stats": {
+            "observations": 217,
+            "matched": 217,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.428479714900765,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 681
+          }
+        },
+        {
+          "dir": "Trg Kralja Milana",
+          "headsign": "Trg Kralja Milana",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 10,
+          "lengthKm": 4.45,
+          "stats": {
+            "observations": 178,
+            "matched": 178,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.874265793810069,
+            "roundaboutSegs": 21,
+            "extStart": 719,
+            "extEnd": 156
+          }
+        },
+        {
+          "dir": "Železnička stanica Niš",
+          "headsign": "Železnička stanica Niš",
+          "variants": 1,
+          "tripCount": 216,
+          "stops": 13,
+          "lengthKm": 6.12,
+          "stats": {
+            "observations": 306,
+            "matched": 306,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.398238403036161,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "6",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Duvanište",
+          "headsign": "Duvanište",
+          "variants": 2,
+          "tripCount": 133,
+          "stops": 14,
+          "lengthKm": 6.13,
+          "stats": {
+            "observations": 299,
+            "matched": 299,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.5890489155588705,
+            "roundaboutSegs": 70,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Skopska",
+          "headsign": "Skopska",
+          "variants": 2,
+          "tripCount": 80,
+          "stops": 17,
+          "lengthKm": 7.74,
+          "stats": {
+            "observations": 387,
+            "matched": 387,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0429127608229285,
+            "roundaboutSegs": 72,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Aleksandra",
+          "headsign": "Trg Kralja Aleksandra",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 4,
+          "lengthKm": 1.2,
+          "stats": {
+            "observations": 61,
+            "matched": 61,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.432402556769053,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Milana",
+          "headsign": "Trg Kralja Milana",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 16,
+          "lengthKm": 5.92,
+          "stats": {
+            "observations": 291,
+            "matched": 291,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.523797226652601,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Železnička stanica",
+          "headsign": "Železnička stanica",
+          "variants": 3,
+          "tripCount": 82,
+          "stops": 19,
+          "lengthKm": 7.61,
+          "stats": {
+            "observations": 372,
+            "matched": 372,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.526069101278535,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "63. Padobranske brigade",
+          "headsign": "63. Padobranske brigade",
+          "variants": 1,
+          "tripCount": 25,
+          "stops": 14,
+          "lengthKm": 5.42,
+          "stats": {
+            "observations": 266,
+            "matched": 266,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.726745395079573,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "8",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Gabrovačka Reka",
+          "headsign": "Gabrovačka Reka",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 14,
+          "lengthKm": 4.98,
+          "stats": {
+            "observations": 249,
+            "matched": 249,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4477227515229718,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Gabrovačka reka",
+          "headsign": "Gabrovačka reka",
+          "variants": 2,
+          "tripCount": 85,
+          "stops": 27,
+          "lengthKm": 11.08,
+          "stats": {
+            "observations": 554,
+            "matched": 554,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.033314758887401,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Novo Groblje",
+          "headsign": "Novo Groblje",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 12,
+          "lengthKm": 6.28,
+          "stats": {
+            "observations": 312,
+            "matched": 312,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7076832272318248,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Novo groblje",
+          "headsign": "Novo groblje",
+          "variants": 1,
+          "tripCount": 83,
+          "stops": 25,
+          "lengthKm": 10.91,
+          "stats": {
+            "observations": 544,
+            "matched": 544,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.920591713376368,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Pasi Poljana",
+          "headsign": "Pasi Poljana",
+          "variants": 1,
+          "tripCount": 23,
+          "stops": 24,
+          "lengthKm": 9.89,
+          "stats": {
+            "observations": 494,
+            "matched": 494,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8899132586405325,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Pavla Stojkovića",
+          "headsign": "Trg Pavla Stojkovića",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 12,
+          "lengthKm": 5.08,
+          "stats": {
+            "observations": 255,
+            "matched": 255,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.5561326980348755,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Branko Bjegović",
+          "headsign": "Branko Bjegović",
+          "variants": 1,
+          "tripCount": 140,
+          "stops": 21,
+          "lengthKm": 8.38,
+          "stats": {
+            "observations": 419,
+            "matched": 419,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.3087884171740045,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Mokranjčeva",
+          "headsign": "Mokranjčeva",
+          "variants": 1,
+          "tripCount": 139,
+          "stops": 22,
+          "lengthKm": 8.72,
+          "stats": {
+            "observations": 436,
+            "matched": 436,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9177340685449504,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "10",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "9. maj",
+          "headsign": "9. maj",
+          "variants": 2,
+          "tripCount": 135,
+          "stops": 20,
+          "lengthKm": 12.43,
+          "stats": {
+            "observations": 599,
+            "matched": 599,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.367896083696541,
+            "roundaboutSegs": 66,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Ekonomska škola",
+          "headsign": "Ekonomska škola",
+          "variants": 3,
+          "tripCount": 132,
+          "stops": 21,
+          "lengthKm": 10.17,
+          "stats": {
+            "observations": 508,
+            "matched": 508,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.21786764158328,
+            "roundaboutSegs": 78,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Naselje 9. maj",
+          "headsign": "Naselje 9. maj",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 13,
+          "lengthKm": 6.01,
+          "stats": {
+            "observations": 301,
+            "matched": 301,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.226343915045005,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Aleksandra",
+          "headsign": "Trg Kralja Aleksandra",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 13,
+          "lengthKm": 6.46,
+          "stats": {
+            "observations": 310,
+            "matched": 310,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.0914291617388425,
+            "roundaboutSegs": 117,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Milana",
+          "headsign": "Trg Kralja Milana",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 7,
+          "lengthKm": 3.34,
+          "stats": {
+            "observations": 167,
+            "matched": 167,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.8353327123809375,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "11",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Duvanište",
+          "headsign": "Duvanište",
+          "variants": 1,
+          "tripCount": 26,
+          "stops": 18,
+          "lengthKm": 7.76,
+          "stats": {
+            "observations": 385,
+            "matched": 385,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.462422898484915,
+            "roundaboutSegs": 68,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Medoševac",
+          "headsign": "Medoševac",
+          "variants": 2,
+          "tripCount": 26,
+          "stops": 19,
+          "lengthKm": 7.58,
+          "stats": {
+            "observations": 378,
+            "matched": 378,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.4518716661798217,
+            "roundaboutSegs": 63,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Pavla Stojkovića",
+          "headsign": "Trg Pavla Stojkovića",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 8,
+          "lengthKm": 2.83,
+          "stats": {
+            "observations": 143,
+            "matched": 143,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.229150610422615,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "12",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Donji Komren",
+          "headsign": "Donji Komren",
+          "variants": 1,
+          "tripCount": 79,
+          "stops": 16,
+          "lengthKm": 7.82,
+          "stats": {
+            "observations": 391,
+            "matched": 391,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6025882698246434,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Njegoševa",
+          "headsign": "Njegoševa",
+          "variants": 1,
+          "tripCount": 77,
+          "stops": 16,
+          "lengthKm": 7.74,
+          "stats": {
+            "observations": 384,
+            "matched": 384,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.7656682620463,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "13",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Delijski Vis",
+          "headsign": "Delijski Vis",
+          "variants": 1,
+          "tripCount": 47,
+          "stops": 15,
+          "lengthKm": 5.73,
+          "stats": {
+            "observations": 287,
+            "matched": 287,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.622662192853287,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg kralja Aleksandra Ujedinitelja",
+          "headsign": "Trg kralja Aleksandra Ujedinitelja",
+          "variants": 2,
+          "tripCount": 49,
+          "stops": 15,
+          "lengthKm": 5.53,
+          "stats": {
+            "observations": 276,
+            "matched": 276,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.305248276546292,
+            "roundaboutSegs": 46,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Ćele-kula",
+          "headsign": "Ćele-kula",
+          "variants": 1,
+          "tripCount": 95,
+          "stops": 11,
+          "lengthKm": 4.37,
+          "stats": {
+            "observations": 220,
+            "matched": 220,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.570647925010456,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "14",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Brenica",
+          "headsign": "Brenica",
+          "variants": 1,
+          "tripCount": 15,
+          "stops": 20,
+          "lengthKm": 10.4,
+          "stats": {
+            "observations": 517,
+            "matched": 517,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0463987021652312,
+            "roundaboutSegs": 1,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 2,
+          "tripCount": 15,
+          "stops": 18,
+          "lengthKm": 9.36,
+          "stats": {
+            "observations": 448,
+            "matched": 448,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6847829715211087,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 426
+          }
+        },
+        {
+          "dir": "Vinik",
+          "headsign": "Vinik",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 14,
+          "lengthKm": 6.9,
+          "stats": {
+            "observations": 340,
+            "matched": 340,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9762095751483755,
+            "roundaboutSegs": 1,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "14A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Cerje",
+          "headsign": "Cerje",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 23,
+          "lengthKm": 19,
+          "stats": {
+            "observations": 931,
+            "matched": 931,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.3474438059135965,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 24,
+          "lengthKm": 18.37,
+          "stats": {
+            "observations": 898,
+            "matched": 898,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.947145468245651,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 242
+          }
+        }
+      ]
+    },
+    {
+      "line": "15",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Knez Selo",
+          "headsign": "Knez Selo",
+          "variants": 1,
+          "tripCount": 37,
+          "stops": 17,
+          "lengthKm": 12.99,
+          "stats": {
+            "observations": 640,
+            "matched": 640,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.3879140637065412,
+            "roundaboutSegs": 42,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 37,
+          "stops": 17,
+          "lengthKm": 12.5,
+          "stats": {
+            "observations": 618,
+            "matched": 618,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.6085155933153565,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "15A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Gornji Matejevac",
+          "headsign": "Gornji Matejevac",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 20,
+          "lengthKm": 10.19,
+          "stats": {
+            "observations": 502,
+            "matched": 502,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.117149484940917,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg Kralja Aleksandra",
+          "headsign": "Trg Kralja Aleksandra",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 19,
+          "lengthKm": 9.89,
+          "stats": {
+            "observations": 495,
+            "matched": 495,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.689499545095806,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "16",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 21,
+          "lengthKm": 20.71,
+          "stats": {
+            "observations": 1040,
+            "matched": 1040,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8393829616849446,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Vrelo",
+          "headsign": "Vrelo",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 20,
+          "lengthKm": 21.3,
+          "stats": {
+            "observations": 1065,
+            "matched": 1065,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7421607621321265,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "17",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Oreovac",
+          "headsign": "Oreovac",
+          "variants": 1,
+          "tripCount": 15,
+          "stops": 23,
+          "lengthKm": 21.57,
+          "stats": {
+            "observations": 1065,
+            "matched": 1065,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.6283423198683344,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 24,
+          "lengthKm": 20.94,
+          "stats": {
+            "observations": 1042,
+            "matched": 1042,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.1104549199341567,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "17A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Gornja Vrežina",
+          "headsign": "Gornja Vrežina",
+          "variants": 1,
+          "tripCount": 11,
+          "stops": 16,
+          "lengthKm": 10.02,
+          "stats": {
+            "observations": 499,
+            "matched": 499,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.5066587756160463,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 11,
+          "stops": 17,
+          "lengthKm": 9.47,
+          "stats": {
+            "observations": 451,
+            "matched": 451,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.5895186144368774,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 468
+          }
+        }
+      ]
+    },
+    {
+      "line": "18",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 21,
+          "lengthKm": 20.45,
+          "stats": {
+            "observations": 975,
+            "matched": 975,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.972439020278023,
+            "roundaboutSegs": 60,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "19",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Bancarevo",
+          "headsign": "Bancarevo",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 28,
+          "lengthKm": 31.62,
+          "stats": {
+            "observations": 1579,
+            "matched": 1579,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0806315919830474,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 23,
+          "lengthKm": 31.68,
+          "stats": {
+            "observations": 1585,
+            "matched": 1585,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0984853222347746,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "20",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 28,
+          "lengthKm": 29.28,
+          "stats": {
+            "observations": 1464,
+            "matched": 1464,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8117531350229859,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Ravni Do",
+          "headsign": "Ravni Do",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 28,
+          "lengthKm": 30,
+          "stats": {
+            "observations": 1492,
+            "matched": 1492,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9230469397361372,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "20A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Ostrovica",
+          "headsign": "Ostrovica",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 34,
+          "lengthKm": 32.35,
+          "stats": {
+            "observations": 1614,
+            "matched": 1614,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.409623562478209,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 2,
+          "tripCount": 14,
+          "stops": 27,
+          "lengthKm": 26.11,
+          "stats": {
+            "observations": 1305,
+            "matched": 1305,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5598091650348644,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "21",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Gornja Studena",
+          "headsign": "Gornja Studena",
+          "variants": 1,
+          "tripCount": 23,
+          "stops": 25,
+          "lengthKm": 21.95,
+          "stats": {
+            "observations": 1096,
+            "matched": 1096,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.146047820765479,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 23,
+          "stops": 26,
+          "lengthKm": 21.84,
+          "stats": {
+            "observations": 1090,
+            "matched": 1090,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7626932271984503,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "21A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Jelašnica",
+          "headsign": "Jelašnica",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 18,
+          "lengthKm": 16.6,
+          "stats": {
+            "observations": 830,
+            "matched": 830,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5748153780473144,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 19,
+          "lengthKm": 16.6,
+          "stats": {
+            "observations": 823,
+            "matched": 823,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.3647540857755542,
+            "roundaboutSegs": 45,
+            "extStart": 87,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "22",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 17,
+          "lengthKm": 11.4,
+          "stats": {
+            "observations": 568,
+            "matched": 568,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.4701046243816864,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Vukmanovo",
+          "headsign": "Vukmanovo",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 16,
+          "lengthKm": 11.59,
+          "stats": {
+            "observations": 578,
+            "matched": 578,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.227875097317607,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Berbatovo",
+          "headsign": "Berbatovo",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 17,
+          "lengthKm": 11.9,
+          "stats": {
+            "observations": 593,
+            "matched": 593,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.507759906102227,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 11.69,
+          "stats": {
+            "observations": 584,
+            "matched": 584,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2402291870673023,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 22,
+          "lengthKm": 13.85,
+          "stats": {
+            "observations": 693,
+            "matched": 693,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.874214524515536,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Vukmanovo",
+          "headsign": "Vukmanovo",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 22,
+          "lengthKm": 14.08,
+          "stats": {
+            "observations": 703,
+            "matched": 703,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6731278061323347,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23K",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 37,
+          "lengthKm": 25.65,
+          "stats": {
+            "observations": 1271,
+            "matched": 1271,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.8135173943782936,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "23L",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Gabrovac",
+          "headsign": "Gabrovac",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 14,
+          "lengthKm": 9.71,
+          "stats": {
+            "observations": 487,
+            "matched": 487,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.136165753548224,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 15,
+          "lengthKm": 9.56,
+          "stats": {
+            "observations": 478,
+            "matched": 478,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.340977609412063,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "24",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Donje Vlase",
+          "headsign": "Donje Vlase",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 18,
+          "lengthKm": 11.94,
+          "stats": {
+            "observations": 597,
+            "matched": 597,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9657109200860226,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 19,
+          "lengthKm": 12.04,
+          "stats": {
+            "observations": 600,
+            "matched": 600,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.989480316092802,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "25",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "9. maj",
+          "headsign": "9. maj",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 17,
+          "lengthKm": 9.53,
+          "stats": {
+            "observations": 475,
+            "matched": 475,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7281575311828536,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 17,
+          "lengthKm": 9.81,
+          "stats": {
+            "observations": 486,
+            "matched": 486,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6509533827644245,
+            "roundaboutSegs": 36,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "26",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Lalinac",
+          "headsign": "Lalinac",
+          "variants": 1,
+          "tripCount": 20,
+          "stops": 15,
+          "lengthKm": 11.15,
+          "stats": {
+            "observations": 557,
+            "matched": 557,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.6614048018064285,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 19,
+          "stops": 16,
+          "lengthKm": 11.25,
+          "stats": {
+            "observations": 561,
+            "matched": 561,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.625067712060945,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "27A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 5,
+          "stops": 24,
+          "lengthKm": 13.58,
+          "stats": {
+            "observations": 678,
+            "matched": 678,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.520561796364765,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trupale",
+          "headsign": "Trupale",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 24,
+          "lengthKm": 13.41,
+          "stats": {
+            "observations": 667,
+            "matched": 667,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0017244266123315,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "27B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 16,
+          "lengthKm": 8.16,
+          "stats": {
+            "observations": 408,
+            "matched": 408,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5573672113016053,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Popovac",
+          "headsign": "Popovac",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 15,
+          "lengthKm": 13.58,
+          "stats": {
+            "observations": 678,
+            "matched": 678,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.520561796364765,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg kralja Aleksandra",
+          "headsign": "Trg kralja Aleksandra",
+          "variants": 1,
+          "tripCount": 29,
+          "stops": 15,
+          "lengthKm": 7.34,
+          "stats": {
+            "observations": 367,
+            "matched": 367,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8122356938219641,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "28",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 3,
+          "tripCount": 4,
+          "stops": 27,
+          "lengthKm": 16.38,
+          "stats": {
+            "observations": 820,
+            "matched": 820,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.2204411318393,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Vrtište",
+          "headsign": "Vrtište",
+          "variants": 3,
+          "tripCount": 4,
+          "stops": 28,
+          "lengthKm": 16.1,
+          "stats": {
+            "observations": 803,
+            "matched": 803,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.953725113319187,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "28A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 29,
+          "lengthKm": 18.3,
+          "stats": {
+            "observations": 916,
+            "matched": 916,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.89248292851463,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "28B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Mezgraja",
+          "headsign": "Mezgraja",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 18,
+          "lengthKm": 13.36,
+          "stats": {
+            "observations": 668,
+            "matched": 668,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1105492981515366,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "29",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Gornja Trnava",
+          "headsign": "Gornja Trnava",
+          "variants": 2,
+          "tripCount": 16,
+          "stops": 25,
+          "lengthKm": 20.34,
+          "stats": {
+            "observations": 1019,
+            "matched": 1019,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.385747629408161,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 2,
+          "tripCount": 16,
+          "stops": 25,
+          "lengthKm": 20.22,
+          "stats": {
+            "observations": 1011,
+            "matched": 1011,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0402018013250234,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "29A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Gornja Trnava",
+          "headsign": "Gornja Trnava",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 36,
+          "lengthKm": 25.45,
+          "stats": {
+            "observations": 1270,
+            "matched": 1270,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9232283929092877,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 36,
+          "lengthKm": 25.52,
+          "stats": {
+            "observations": 1270,
+            "matched": 1270,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.550545663857478,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "30",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Leskovik",
+          "headsign": "Leskovik",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 19,
+          "lengthKm": 12.51,
+          "stats": {
+            "observations": 628,
+            "matched": 628,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.535974416606825,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 17,
+          "stops": 19,
+          "lengthKm": 12.56,
+          "stats": {
+            "observations": 622,
+            "matched": 622,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.858756837669905,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 132
+          }
+        }
+      ]
+    },
+    {
+      "line": "31",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Hum",
+          "headsign": "Hum",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 13,
+          "lengthKm": 6.92,
+          "stats": {
+            "observations": 331,
+            "matched": 331,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.6405475165723793,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 322
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 13,
+          "lengthKm": 6.67,
+          "stats": {
+            "observations": 334,
+            "matched": 334,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7375811948366127,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "32",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Kravlje",
+          "headsign": "Kravlje",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 36,
+          "lengthKm": 31.97,
+          "stats": {
+            "observations": 1606,
+            "matched": 1606,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.622695209978285,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 37,
+          "lengthKm": 32.09,
+          "stats": {
+            "observations": 1607,
+            "matched": 1607,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.445051531710935,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "32A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 32,
+          "lengthKm": 23.78,
+          "stats": {
+            "observations": 1181,
+            "matched": 1181,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.380100938826164,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 193
+          }
+        },
+        {
+          "dir": "Paligrace",
+          "headsign": "Paligrace",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 32,
+          "lengthKm": 23.67,
+          "stats": {
+            "observations": 1186,
+            "matched": 1186,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.092914177082123,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "33",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 21,
+          "stops": 25,
+          "lengthKm": 18.49,
+          "stats": {
+            "observations": 921,
+            "matched": 921,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4938019932885043,
+            "roundaboutSegs": 85,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Sečanica",
+          "headsign": "Sečanica",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 24,
+          "lengthKm": 19.03,
+          "stats": {
+            "observations": 951,
+            "matched": 951,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.790443775762247,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "33P",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 2,
+          "tripCount": 3,
+          "stops": 28,
+          "lengthKm": 22.41,
+          "stats": {
+            "observations": 1118,
+            "matched": 1118,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7247757376576884,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "34A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Aerodrom Konstantin Veliki",
+          "headsign": "Aerodrom Konstantin Veliki",
+          "variants": 3,
+          "tripCount": 56,
+          "stops": 46,
+          "lengthKm": 22.06,
+          "stats": {
+            "observations": 1023,
+            "matched": 1023,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 4.775322251449704,
+            "roundaboutSegs": 87,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "34B",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Aerodrom Konstantin Veliki",
+          "headsign": "Aerodrom Konstantin Veliki",
+          "variants": 3,
+          "tripCount": 56,
+          "stops": 46,
+          "lengthKm": 21.25,
+          "stats": {
+            "observations": 1022,
+            "matched": 1021,
+            "noCandidates": 1,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 40,
+            "meanError": 3.632286781266517,
+            "roundaboutSegs": 77,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "35",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 2,
+          "tripCount": 13,
+          "stops": 23,
+          "lengthKm": 16.5,
+          "stats": {
+            "observations": 823,
+            "matched": 823,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1207267693118914,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "36",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Krušce",
+          "headsign": "Krušce",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 20,
+          "lengthKm": 11.3,
+          "stats": {
+            "observations": 560,
+            "matched": 560,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.52921788667353,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Mramor",
+          "headsign": "Mramor",
+          "variants": 1,
+          "tripCount": 33,
+          "stops": 17,
+          "lengthKm": 9.47,
+          "stats": {
+            "observations": 466,
+            "matched": 466,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 5.746309101253978,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Trg kralja Aleksandra",
+          "headsign": "Trg kralja Aleksandra",
+          "variants": 2,
+          "tripCount": 13,
+          "stops": 20,
+          "lengthKm": 11,
+          "stats": {
+            "observations": 552,
+            "matched": 552,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3686325709356253,
+            "roundaboutSegs": 69,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "36A",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Mramorski Potok",
+          "headsign": "Mramorski Potok",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 23,
+          "lengthKm": 14.83,
+          "stats": {
+            "observations": 740,
+            "matched": 740,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.41062454911717,
+            "roundaboutSegs": 40,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 16,
+          "stops": 24,
+          "lengthKm": 14.71,
+          "stats": {
+            "observations": 737,
+            "matched": 737,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.1427737110256877,
+            "roundaboutSegs": 74,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "37",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Lazarevo Selo",
+          "headsign": "Lazarevo Selo",
+          "variants": 1,
+          "tripCount": 11,
+          "stops": 16,
+          "lengthKm": 0.17,
+          "stats": {
+            "observations": 10,
+            "matched": 10,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 6.912981531907115,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 17,
+          "lengthKm": 13.15,
+          "stats": {
+            "observations": 654,
+            "matched": 654,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2543791739885184,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "39",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "PAS Niš",
+          "headsign": "PAS Niš",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 16.78,
+          "stats": {
+            "observations": 833,
+            "matched": 833,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.136204466626963,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 101
+          }
+        },
+        {
+          "dir": "Supovac",
+          "headsign": "Supovac",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 22,
+          "lengthKm": 16.78,
+          "stats": {
+            "observations": 841,
+            "matched": 841,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.596534257669935,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "500",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "eWallet",
+          "headsign": "eWallet",
+          "variants": 1,
+          "tripCount": 15,
+          "stops": 2,
+          "lengthKm": 0.44,
+          "stats": {
+            "observations": 2,
+            "matched": 2,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7880627822335542,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5000",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 2,
+          "lengthKm": 1.5,
+          "stats": {
+            "observations": 2,
+            "matched": 2,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.19287294554417075,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5001",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 2,
+          "lengthKm": 1.21,
+          "stats": {
+            "observations": 2,
+            "matched": 2,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0796576134296707,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5002",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 2,
+          "lengthKm": 1.2,
+          "stats": {
+            "observations": 2,
+            "matched": 2,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0796576134296707,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5004",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 2,
+          "lengthKm": 1.2,
+          "stats": {
+            "observations": 2,
+            "matched": 2,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0796576134296707,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "5005",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 2,
+          "lengthKm": 1.2,
+          "stats": {
+            "observations": 2,
+            "matched": 2,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0796576134296707,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "6000",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 2,
+          "lengthKm": 1.2,
+          "stats": {
+            "observations": 2,
+            "matched": 2,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0796576134296707,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7000",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 1,
+          "stops": 2,
+          "lengthKm": 1.21,
+          "stats": {
+            "observations": 2,
+            "matched": 2,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0796576134296707,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    }
+  ]
+}
