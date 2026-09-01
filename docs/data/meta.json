@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T14:52:19.952Z",
+  "generatedAt": "2026-09-01T15:26:19.296Z",
   "bbox": [
     21.740579,
     43.248971,
@@ -2546,19 +2546,19 @@
           "variants": 1,
           "tripCount": 16,
           "stops": 13,
-          "lengthKm": 6.92,
+          "lengthKm": 18.14,
           "stats": {
-            "observations": 331,
-            "matched": 331,
+            "observations": 634,
+            "matched": 634,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 3.6405475165723793,
+            "meanError": 3.7815223951549712,
             "roundaboutSegs": 0,
             "extStart": 0,
-            "extEnd": 322
+            "extEnd": 5484
           }
         },
         {
@@ -2973,17 +2973,17 @@
           "variants": 1,
           "tripCount": 11,
           "stops": 16,
-          "lengthKm": 0.17,
+          "lengthKm": 11,
           "stats": {
-            "observations": 10,
-            "matched": 10,
+            "observations": 552,
+            "matched": 552,
             "noCandidates": 0,
             "viterbiBreaks": 0,
             "bridged": 0,
             "rawStretchCount": 0,
             "rawMeters": 0,
-            "meanError": 6.912981531907115,
-            "roundaboutSegs": 18,
+            "meanError": 2.3686325709356253,
+            "roundaboutSegs": 69,
             "extStart": 0,
             "extEnd": 0
           }
