@@ -2738,7 +2738,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Supovac okretnica",
           "variants": 2,
           "tripCount": 3,
           "stops": 28,
@@ -3095,7 +3095,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Niš Mega maksi",
           "variants": 1,
           "tripCount": 1,
           "stops": 2,
@@ -3123,7 +3123,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "DIN",
           "variants": 1,
           "tripCount": 1,
           "stops": 2,
@@ -3151,7 +3151,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "DIN",
           "variants": 1,
           "tripCount": 1,
           "stops": 2,
@@ -3179,7 +3179,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "DIN",
           "variants": 1,
           "tripCount": 1,
           "stops": 2,
@@ -3207,7 +3207,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "DIN",
           "variants": 1,
           "tripCount": 1,
           "stops": 2,
@@ -3235,7 +3235,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "DIN",
           "variants": 1,
           "tripCount": 1,
           "stops": 2,
@@ -3263,7 +3263,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "DIN",
           "variants": 1,
           "tripCount": 1,
           "stops": 2,
