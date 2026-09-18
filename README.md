@@ -1,4 +1,4 @@
-# Niš Public Transport — interactive map
+# Ниш / Niš Public Transport — interactive map
 
 Interactive, poster-grade map of the public transport network of **Niš**:
 62 city and suburban lines of JGSP Niš-Ekspres, out to Niška Banja, Malča and
